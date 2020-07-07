@@ -1,0 +1,8 @@
+{
+  "name": "vanilla-js-dropdown-demo",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "vanilla-js-dropdown": "^2.2.0"
+  }
+}
