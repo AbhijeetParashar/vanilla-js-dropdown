@@ -54,3 +54,29 @@ ul{
 #dropdown li {
     padding: 10px 15px;
 }
+
+label {
+    font: bold 16px Lato;
+    display: block;
+    padding: 16px 0;
+  }
+  .js-Dropdown {
+    display: inline-block;
+    font: 400 14px sans-serif;
+    position: relative;
+    width: 20em;
+  }
+  .js-Dropdown-title {
+    background: #ffffff;
+    border: 1px solid #a5a5a5;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    font: 400 14px sans-serif;
+    height: 3em;
+    padding: .5em 1em;
+    position: relative;
+    text-align: left;
+    width: 100%;
+  }
+ 
